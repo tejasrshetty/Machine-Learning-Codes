@@ -1,4 +1,4 @@
-The given code initially calculates the mean and covariance from given input data ("Salmon_Dataset.csv") for two input classes - Alaskan and Canadian.
+The given code initially calculates the mean and covariance from given input data ("Salmon_dataset.csv") for two input classes - Alaskan and Canadian.
 
 It then uses test data ( Currently hardcoded in the code) and then predicts the output class for 10 sample values.
 The prediction is done by calculating the probability that the input lies in a class ( Canadian or Gaussian).
